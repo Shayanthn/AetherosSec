@@ -41,9 +41,8 @@ Built with `tkinter`, `psutil`, and `matplotlib`, this app provides a profession
 ## 📸 UI Preview
 
 <p align="center">
-  <img src="https://github.com/Shayanthn/AetherosSec/blob/photo/1.png?raw=true" alt="ShaySecure UI Preview" width="850"/>
+  <img src="https://github.com/Shayanthn/AetherosSec/blob/main/1.png?raw=true" alt="ShaySecure UI Preview" width="850"/>
 </p>
-
 ---
 
 ## 🧰 Technologies Used
