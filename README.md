@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Shayanthn/AetherosSec/blob/photo/2.png?raw=true" alt="ShaySecure Banner" width="1000"/>
+</p>
+
 # 🛡️ ShaySecure LiveNet Supreme 👁‍🗨
 
 **AetherosSec** | Cybersecurity & Network Monitoring Tool  
