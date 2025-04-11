@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/Shayanthn/AetherosSec/blob/photo/2.png?raw=true](https://github.com/Shayanthn/AetherosSec/blob/main/2.png?raw=true)" alt="ShaySecure Banner" width="1000"/>
+  <img src="https://github.com/Shayanthn/AetherosSec/blob/main/2.png?raw=true" alt="ShaySecure Banner" width="1000"/>
 </p>
 
 # 🛡️ ShaySecure LiveNet Supreme 👁‍🗨
