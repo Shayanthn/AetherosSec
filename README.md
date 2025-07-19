@@ -56,3 +56,6 @@ Built with `tkinter`, `psutil`, and `matplotlib`, this app provides a profession
 | `PIL`           | Image handling (for logo)     |
 | `json`, `csv`   | Config and report management  |
 
+```
+Shayantaherkhani.ir
+```
