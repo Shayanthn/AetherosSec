@@ -5,7 +5,7 @@
 # 🛡️ ShaySecure LiveNet Supreme 👁‍🗨
 
 **AetherosSec** | Cybersecurity & Network Monitoring Tool  
-Developed with ❤️ by [Shayan Taherkhani](https://linkedin.com/in/shayantaherkhani) | [GitHub](https://github.com/shayanthn)
+Developed with ❤️ by [Shayan Taherkhani](https://linkedin.com/in/shayantaherkhani78) | [GitHub](https://github.com/shayanthn)
 
 ---
 
